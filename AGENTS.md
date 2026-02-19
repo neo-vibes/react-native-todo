@@ -4,6 +4,8 @@
 
 Minimal, elegant todo list app for iOS/Android. React Native + Expo + TypeScript.
 
+**Status:** Complete ✅ (20 tests passing, lint clean, TypeScript strict)
+
 ## Quick Start
 
 ```bash
